@@ -1,0 +1,10 @@
+{
+  "name": "Medora — Personal Health Management",
+  "short_name": "Medora",
+  "description": "A calm, clear home for your personal health story.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe7",
+  "theme_color": "#236b68",
+  "icons": [{ "src": "/manus-storage/medora-logo_6a1bbac9.png", "sizes": "192x192", "type": "image/png" }]
+}
