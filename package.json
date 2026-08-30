@@ -1,0 +1,23 @@
+{
+  "name": "medora-health-portal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "lucide-react": "^0.453.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
